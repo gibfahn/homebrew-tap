@@ -1,3 +1,4 @@
+# See upstream issue: https://github.com/dburkart/check-sieve/issues/46
 class CheckSieve < Formula
   version "0.6"
   sha256 "e5d339258ae423e3bcc81142e211f4f448af288b089b0630240f8473adeac2c5"
