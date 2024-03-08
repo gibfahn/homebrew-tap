@@ -1,7 +1,7 @@
 # See upstream issue: https://github.com/dburkart/check-sieve/issues/46
 class CheckSieve < Formula
-  version '0.7'
-  sha256 '5a51817cf9da205d56e3bd0bf9e7a87f3ee7005b3edf803b6752dc019735c994'
+  version '0.9'
+  sha256 'cc9a8ee4fe3e6464d1934325d2c17c4f37799aedb85d7fda9e00991e23d93c60'
 
   desc 'CLI to check Sieve files for errors.'
   homepage 'https://github.com/dburkart/check-sieve'
