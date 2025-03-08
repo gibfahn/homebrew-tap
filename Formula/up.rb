@@ -1,6 +1,6 @@
 class Up < Formula
-  version "0.17.1"
-  sha256 "f1c89775a8413cb081516ffa1d2d7798aed55c63897a58f818931328068651e2"
+  version "0.18.0"
+  sha256 "c7e2e12f8de9e8a1f514c8fb6c7ba43c05fc9741c9ca7f6532b95742e1648cd4"
 
   desc "Tool to keep your machine up to date."
   homepage "https://github.com/gibfahn/up"
