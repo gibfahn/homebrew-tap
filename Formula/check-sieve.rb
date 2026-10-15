@@ -1,11 +1,11 @@
 # See upstream issue: https://github.com/dburkart/check-sieve/issues/46
 class CheckSieve < Formula
-  version '0.10'
-  sha256 '8cac6b8b7120d6c230c705465f95220bd52578e2f1775de8963dc04c0abf8d4e'
+  version '1.0.1'
+  sha256 '447f65bb235e180e330195514acf5b8a5b042511f9793ce3f06afbd1debfde88'
 
   desc 'CLI to check Sieve files for errors.'
   homepage 'https://github.com/dburkart/check-sieve'
-  url "https://github.com/dburkart/check-sieve/archive/refs/tags/check-sieve-#{version}.tar.gz"
+  url "https://github.com/dburkart/check-sieve/archive/refs/tags/v#{version}.tar.gz"
   license 'MIT'
 
   def install
